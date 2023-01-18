@@ -41,9 +41,7 @@ const Banner = () => {
             data-aos-once="true"
             className="text-center transition-all duration-300 ease-linear text-sm leading-relaxed lg:text-xl lg:w-5/6"
           >
-            " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis
-            voluptatum sequi sed itaque a atque! Repellendus ipsa sed dolorem
-            natus! sed itaque a atque! Repellendus ipsa sed dolorem"
+            "To be a global IT and information security providers."
           </p>
         </figcaption>
       </figure>

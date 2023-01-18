@@ -14,21 +14,19 @@ const Hero = () => {
         data-aos-duration="1000"
         data-aos-easing="ease-in"
         data-aos-once="true"
-        className="flex flex-col capitalize font-poppins space-y-1 py-10 items-start md:w-[50vw] lg:w-[60vw] lg:space-y-2"
+        className="flex flex-col capitalize font-poppins space-y-1 py-10 items-start md:w-[50vw] lg:w-[50vw] lg:space-y-2"
       >
         <h3 className="text-4xl py-2 font-bold px-1 uppercase lg:text-6xl">
-          we keep your business moving
+          Stay connected and <span>Secure</span>
         </h3>
         <h4 className="text-[16px]  px-1 lg:text-xl lg:font-semibold">
-          <span className="border-b-2 border-colorOne">{`supply chain, transportation & logistics managment`}</span>
+          <span className="border-b-2 border-colorOne">{`Network monitoring, Network Security, Data Security`}</span>
+          <span className="py-1 block border-b-2 border-colorOne">{`Garment Management Solution, Garment Store Managment Solution`}</span>
         </h4>
         <p className="text-[15px] py-2 px-1 pt-6 leading-relaxed lg:text-lg lg:w-[30vw]">
-          we at {"  "}
-          <span className=" text-colorOne font-semibold">
-            Arya Infoways
-          </span>{" "}
-          provide solutions to both small and large businesses, regardless of
-          your industry or commodity.
+          <span className=" text-colorOne font-semibold">Arya Infoways</span> is
+          a young and dynamic company for your Network, Information and Data
+          Security and ERP Solutions.
           {/* right from pickup from supplier's factory to delivery at buyer's. we
           provide all services under one roof. Regardless of your industry or
           commodity,we have solutions to both small and large businesses. */}
@@ -59,17 +57,13 @@ const Hero = () => {
         </div>
       </div>
       <figure
-        className="hidden md:flex lg:w-full transition-all duration-150 ease-linear"
+        className="hidden md:flex lg:w-full lg:grid lg:justify-end transition-all duration-150 ease-linear"
         data-aos="fade-left"
         data-aos-duration="1000"
         data-aos-easing="ease-in"
         data-aos-once="true"
       >
-        <img
-          src="./images/delivery.png"
-          alt="logistics"
-          className="w-[40vw] lg:w-full"
-        />
+        <img src="./images/network_image.gif" alt="logistics"/>
       </figure>
     </section>
   );

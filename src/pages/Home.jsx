@@ -13,17 +13,17 @@ import "aos/dist/aos.css";
 const Home = () => {
   useEffect(() => {
     Aos.init({ duration: 2000 });
-  },[]);
+  }, []);
 
   return (
-    <main className="w-[90vw] mx-auto lg:w-[85vw] xl:w-[75vw]  transition-all duration-150 ease-linear">
+    <main className="w-[90vw] mx-auto lg:w-[90vw] xl:w-[80vw]  transition-all duration-150 ease-linear">
       <Hero />
-      <hr />
-      <About />
       <hr />
       <Services />
       <hr />
       <Clients />
+      <hr />
+      <About />
       <hr />
       <Gallery />
       <hr />

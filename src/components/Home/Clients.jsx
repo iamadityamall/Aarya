@@ -34,12 +34,12 @@ const Clients = () => {
     >
       <div className="lg:flex flex-col space-y-2">
         <h1 className="text-2xl font-bold md:text-center lg:text-4xl lg:text-left">
-          Our Clients
+          Our Vendors
         </h1>
         <p className="lg:w-3/4">
           <span className="text-sm border-b-2 border-colorOne lg:text-lg">
-            We have built our client base with years of trust. Here are some of
-            our most valuble clients.
+            We have built our vendors base with years of trust. Here are some of
+            our most valuble vendors.
           </span>
         </p>
       </div>
