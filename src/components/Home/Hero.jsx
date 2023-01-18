@@ -25,7 +25,7 @@ const Hero = () => {
         <p className="text-[15px] py-2 px-1 pt-6 leading-relaxed lg:text-lg lg:w-[30vw]">
           we at {"  "}
           <span className=" text-colorOne font-semibold">
-            siddhivinayak logistics
+            Arya Infoways
           </span>{" "}
           provide solutions to both small and large businesses, regardless of
           your industry or commodity.

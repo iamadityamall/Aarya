@@ -29,7 +29,7 @@ const Banner = () => {
             <h1 className="font-bold text-lg">John Doe</h1>
             <p className="font-semibold text-sm">
               CEO and Founder,{" "}
-              <span className="text-colorOne">Siddhivinayak Logistics</span>
+              <span className="text-colorOne">Arya Infoways</span>
             </p>
           </div>
         </div>

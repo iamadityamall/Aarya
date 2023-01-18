@@ -18,9 +18,7 @@ const Footer = () => {
     >
       <section className="flex flex-col py-10 font-poppins space-y-6 w-[90vw] mx-auto md:flex-row md:justify-between md:items-start md:space-y-0 lg:w-[85vw] lg:py-10">
         <div className="flex flex-col  lg:w-[40vw]">
-          <h1 className="font-bold text-lg p-2 lg:text-2xl">
-            siddhivinayak logistics
-          </h1>
+          <h1 className="font-bold text-lg p-2 lg:text-2xl">Arya Infoways</h1>
           <p className="p-2 text-sm lg:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
             explicabo dicta dignissimos et animi, repudiandae perspiciatis!
@@ -71,7 +69,7 @@ const Footer = () => {
       </section>
       <section className={`shadow-sm transition-all duration-150 ease-linear`}>
         <p className="text-center italic font-poppins text-xs font-bold p-4">
-          copyright &copy; siddhivinayak logistics{" "}
+          copyright &copy; Arya Infoways{" "}
           <span>{`${new Date().getFullYear().toString()}`}</span> all right
           reserved
         </p>
