@@ -38,8 +38,8 @@ const Navbar = () => {
               <img
                 src={`${
                   darkmode
-                    ? "./images/siddhi-light-2.png"
-                    : "./images/siddhi-dark-2.png"
+                    ? "./images/arya_info_ways.jpeg"
+                    : "./images/arya_info_ways.jpeg"
                 }`}
                 alt="logo"
                 className="h-10 md:h-12 object-cover"
