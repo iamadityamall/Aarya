@@ -63,7 +63,7 @@ const Hero = () => {
         data-aos-easing="ease-in"
         data-aos-once="true"
       >
-        <img src="./images/network_image.gif" alt="logistics"/>
+        <img src="./images/network_image.gif" alt="logistics" className="rounded-xl"/>
       </figure>
     </section>
   );
