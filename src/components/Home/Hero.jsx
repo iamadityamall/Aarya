@@ -19,9 +19,22 @@ const Hero = () => {
         <h3 className="text-4xl py-2 font-bold px-1 uppercase lg:text-6xl">
           Stay connected and <span>Secure</span>
         </h3>
-        <h4 className="text-[16px]  px-1 lg:text-xl lg:font-semibold">
-          <span className="border-b-2 border-colorOne">{`Network monitoring, Network Security, Data Security`}</span>
-          <span className="py-1 block border-b-2 border-colorOne">{`Garment Management Solution, Garment Store Managment Solution`}</span>
+        <h4 className="grid text-[16px]  px-1 lg:text-xl lg:font-semibold">
+          <span className="border-b-2 border-colorOne">
+            &#x2022; {`Network monitoring`}
+          </span>
+          <span className="border-b-2 border-colorOne">
+            &#x2022; {`Network Security`}
+          </span>
+          <span className="border-b-2 border-colorOne">
+            &#x2022; {`Data Security`}
+          </span>
+          <span className="border-b-2 border-colorOne">
+            &#x2022; {`Garment Management Solution,`}
+          </span>
+          <span className="py-1 block border-b-2 border-colorOne">
+            &#x2022; {`Garment Store Managment Solution`}
+          </span>
         </h4>
         <p className="text-[15px] py-2 px-1 pt-6 leading-relaxed lg:text-lg lg:w-[30vw]">
           <span className=" text-colorOne font-semibold">Arya Infoways</span> is
@@ -63,7 +76,11 @@ const Hero = () => {
         data-aos-easing="ease-in"
         data-aos-once="true"
       >
-        <img src="./images/network_image.gif" alt="logistics" className="rounded-xl"/>
+        <img
+          src="./images/network_image.gif"
+          alt="logistics"
+          className="rounded-xl"
+        />
       </figure>
     </section>
   );
