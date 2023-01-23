@@ -20,9 +20,8 @@ const Footer = () => {
         <div className="flex flex-col  lg:w-[40vw]">
           <h1 className="font-bold text-lg p-2 lg:text-2xl">Arya Infoways</h1>
           <p className="p-2 text-sm lg:text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
-            explicabo dicta dignissimos et animi, repudiandae perspiciatis!
-            Quam, recusandae explicabo adipisci maxime iure ab ea fugit?
+            Arya Infoways Is A Young And Dynamic Company For Your Network,
+            Information And Data Security And ERP Solutions.
           </p>
           <ul className="flex px-2 py-4 space-x-5">
             <li className="text-3xl cursor-pointer md:hover:text-white">

@@ -6,7 +6,7 @@ const Card = () => {
     <article className="w-full bg-colorOne/20  p-3 rounded-xl space-y-2 font-poppinss transition-all duration-150 ease-linear">
       <figure>
         <img
-          src="./images/networkMonitor.webp"
+          src="./images/networkSecurity.png"
           alt="service-logo"
           className="rounded-xl bg-gray-300 h-40 w-full object-cover"
         />
@@ -16,12 +16,11 @@ const Card = () => {
           <div className="p-2 text-colorOne text-2xl">
             <BiConversation />
           </div>
-          <div className="p-2 font-bold font-poppins">Network Monitoring</div>
+          <div className="p-2 font-bold font-poppins">Network Security</div>
         </div>
         <p className="p-2 text-sm">
-          We constantly monitor a computer network for slow or failing
-          components and that notifies the network administrator in case of
-          outages or other trouble.
+          We provide security to any activity designed to protect the usability
+          and integrity of your network and data.
         </p>
       </div>
       {/* <div className="p-2">

@@ -10,7 +10,7 @@ import { animateScroll as scroll } from "react-scroll/modules";
 
 const App = () => {
   useEffect(() => {
-    document.title = "Arya Infoways || Development Build";
+    document.title = "Arya Infoways";
   }, []);
 
   useEffect(() => {

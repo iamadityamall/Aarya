@@ -41,7 +41,7 @@ const Hero = () => {
             className="text-white p-4 rounded-lg bg-colorOne font-semibold capitalize text-xs text-left tracking-widest transition-all duration-150 ease-linear cursor-pointer
           "
           >
-            get quotation
+            contact us
           </Link>
           <div className="flex flex-row space-x-3 text-xl p-2 transition-all duration-150 ease-linear">
             <a href="https://instagram.com">

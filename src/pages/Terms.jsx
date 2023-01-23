@@ -15,10 +15,10 @@ const Terms = () => {
           </div>
           <div className="text-sm flex flex-col space-y-5 items-start">
             <div className="flex flex-col space-y-3">
-              <h3>Welcome to Siddhivinayak Logistics.</h3>
+              <h3>Welcome to Arya InfoWays.</h3>
               <p>
                 These terms and conditions outline the rules and regulations for
-                the use of Siddhivinayak Logistics Website, located at
+                the use of Arya InfoWays Website, located at
                 https://siddhilogistics.netlify.app/
               </p>
               <p>
@@ -50,7 +50,7 @@ const Terms = () => {
               <p>
                 We employ the use of cookies. By accessing
                 siddhilogistics.netlify.app, you agreed to use cookies in
-                agreement with the Siddhivinayak Logistics Privacy Policy.
+                agreement with the Arya InfoWays Privacy Policy.
               </p>
               <p>
                 Most interactive websites use cookies to let us retrieve the
@@ -63,7 +63,7 @@ const Terms = () => {
             <div className="flex flex-col space-y-3">
               <h1 className="text-xl font-bold">License</h1>
               <p>
-                Unless otherwise stated, Siddhivinayak Logistics and/or its
+                Unless otherwise stated, Arya InfoWays and/or its
                 licensors own the intellectual property rights for all material
                 on priyaoptics.com. All intellectual property rights are
                 reserved. You may access this from priyaoptics.com for your own
@@ -87,19 +87,19 @@ const Terms = () => {
                 <p>
                   Parts of this website offer an opportunity for users to post
                   and exchange opinions and information in certain areas of the
-                  website. SiddhiVinayak Logistics does not filter, edit,
+                  website. Arya InfoWays does not filter, edit,
                   publish or review Comments prior to their presence on the
                   website. Comments do not reflect the views and opinions of
                   Priya Optics,its agents and/or affiliates. Comments reflect
                   the views and opinions of the person who post their views and
                   opinions. To the extent permitted by applicable laws,
-                  Siddhivinayak Logistics shall not be liable for the Comments
+                  Arya InfoWays shall not be liable for the Comments
                   or for any liability, damages or expenses caused and/or
                   suffered as a result of any use of and/or posting of and/or
                   appearance of the Comments on this website.
                 </p>
                 <p>
-                  Siddhivinayak Logistics reserves the right to monitor all
+                  Arya InfoWays reserves the right to monitor all
                   Comments and to remove any Comments which can be considered
                   inappropriate, offensive or causes breach of these Terms and
                   Conditions.
@@ -129,7 +129,7 @@ const Terms = () => {
                   </ul>
                 </div>
                 <p>
-                  You hereby grant Siddhivinayak Logistics a non-exclusive
+                  You hereby grant Arya InfoWays a non-exclusive
                   license to use, reproduce, edit and authorize others to use,
                   reproduce and edit any of your Comments in any and all forms,
                   formats or media.
@@ -229,7 +229,7 @@ const Terms = () => {
                     on the linking party’s site.
                   </li>
                   <li>
-                    No use of SiddhiVinayak Logistics logo or other artwork will
+                    No use of Arya InfoWays logo or other artwork will
                     be allowed for linking absent a trademark license agreement.
                   </li>
                 </ul>

@@ -15,8 +15,8 @@ const Privacy = () => {
           <div className="space-y-8">
             <div className="space-y-2">
               <p>
-                At siddhilogistics.netlify.app, accessible from
-                https://siddhilogistics.netlify.app, one of our main priorities
+                At arya-infoways.netlify.app, accessible from
+                https://arya-infoways.netlify.app/, one of our main priorities
                 is the privacy of our visitors. This Privacy Policy document
                 contains types of information that is collected and recorded by
                 priyaoptics.com and how we use it. If you have additional
@@ -219,7 +219,10 @@ const Privacy = () => {
             </div>
           </div>
           <div>
-            <NavLink to="/#contact" className="py-2 bg-colorOne rounded-lg px-2">
+            <NavLink
+              to="/#contact"
+              className="py-2 bg-colorOne rounded-lg px-2"
+            >
               Contact Us
             </NavLink>
           </div>

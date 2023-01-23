@@ -26,7 +26,7 @@ const About = () => {
       >
         <figure className="  rounded-xl overflow-hidden lg:h-full ">
           <img
-            src="./images/delivery.png"
+            src="./images/arya_info_ways.jpeg"
             alt="company-logo"
             className="h-full w-full bg-blue-300 object-cover object-center lg:h-full lg:w-full lg:rounded-xl"
           />

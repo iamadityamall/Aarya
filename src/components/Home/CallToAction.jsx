@@ -14,7 +14,8 @@ const CallToAction = () => {
         <div className="p-2 md:text-xs lg:text-lg">
           <h1 className="font-bold">ADDRESS</h1>
           <p className="lg:text-sm">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            B 101 Caribbean tower sagar city bhd khoja jamat khana andheri west
+            Mumbai 400058
           </p>
         </div>
       </div>
