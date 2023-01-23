@@ -13,7 +13,7 @@ const About = () => {
         data-aos-easing="ease-in"
         data-aos-once="true"
       >
-        <h1 className="text-2xl py-4 font-bold capitalize md:text-2xl lg:text-4xl">
+        <h1 className="text-center text-2xl py-4 font-bold capitalize md:text-2xl lg:text-4xl">
           about us
         </h1>
       </div>
