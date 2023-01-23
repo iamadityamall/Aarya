@@ -62,7 +62,7 @@ const Contact = () => {
         <div className="p-2 w-full rounded-xl bg-colorOne/40 md:col-span-2 lg:h-full lg:col-span-3 transition-all duration-150 ease-linear">
           <iframe
             title="office"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.175440722638!2d73.03357161529401!3d19.011989358920967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3abc6acf4d1%3A0xe4146edc9efa0501!2sSiddhi%20Vinayak%20Logistics%20LTD.!5e0!3m2!1sen!2sin!4v1652952561594!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.7325691109004!2d72.83741091482266!3d19.11938458706305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9da7186b737%3A0x7cb8b5cdf6f66a33!2sSagar%20City%20-%20Caribbean%20Building!5e0!3m2!1sen!2sin!4v1674491551760!5m2!1sen!2sin"
             allowFullScreen=""
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"

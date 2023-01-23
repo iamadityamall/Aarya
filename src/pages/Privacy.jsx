@@ -234,3 +234,14 @@ const Privacy = () => {
 };
 
 export default Privacy;
+
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.7325691109004!2d72.83741091482266!3d19.11938458706305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9da7186b737%3A0x7cb8b5cdf6f66a33!2sSagar%20City%20-%20Caribbean%20Building!5e0!3m2!1sen!2sin!4v1674491551760!5m2!1sen!2sin"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+></iframe>;
