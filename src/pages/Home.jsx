@@ -6,7 +6,7 @@ import Contact from "../components/Home/Contact";
 import CallToAction from "../components/Home/CallToAction";
 import Clients from "../components/Home/Clients";
 import Banner from "../components/Home/Banner";
-import Gallery from "../components/Home/Gallery";
+// import Gallery from "../components/Home/Gallery";
 import Aos from "aos";
 import "aos/dist/aos.css";
 

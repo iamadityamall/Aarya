@@ -1,8 +1,8 @@
 import React from "react";
-import ClientLogo from "./ClientLogo";
+// import ClientLogo from "./ClientLogo";
 
 import { dataImages } from "../../data/images";
-import ClientTestomonialCard from "./ClientTestomonialCard";
+// import ClientTestomonialCard from "./ClientTestomonialCard";
 
 const Clients = () => {
   const [images] = React.useState(dataImages);
