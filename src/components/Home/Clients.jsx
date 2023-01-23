@@ -36,7 +36,7 @@ const Clients = () => {
           Our Vendors
         </h1>
         <p className="text-center">
-          <span className="leading-3 text-sm border-b-2 border-colorOne lg:text-lg p-2">
+          <span className="text-sm border-b-2 border-colorOne lg:text-lg p-2">
             We have built our vendors base with years of trust. Here are some of
             our most valuble vendors.
           </span>

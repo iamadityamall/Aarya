@@ -18,25 +18,23 @@ const Services = () => {
         <h1 className="text-center text-2xl py-4 font-bold tracking-wide capitalize lg:text-4xl">
           our services
         </h1>
-        <p className="p-6 text-center text-xs font-semibold lg:text-lg">
-          <span className="border-b-2 border-colorOne">
+        <p className="grid p-6 text-center text-xs font-semibold lg:text-lg">
+          <span className="py-2 border-b-2 border-colorOne">
             Dealing in IT solutions and providing consulting to corporate
             customers.{" "}
           </span>
-          <span className="border-b-2 border-colorOne">
+          <span className="py-2 border-b-2 border-colorOne">
             Dealing in various OEM product for Information Technology as well as
             Information and Cyber Security.{" "}
           </span>
-          <span className="border-b-2 border-colorOne">
+          <span className="py-2 border-b-2 border-colorOne">
             Venturing into Garment management solutions for both factory as well
             as store.
-          </span >
+          </span>
         </p>
       </div>
 
-      <div>
-        
-      </div>
+      <div></div>
 
       <div className="flex flex-col space-y-6 md:space-y-0 md:grid md:grid-cols-2 md:gap-6 lg:grid-cols-4">
         <Card />
