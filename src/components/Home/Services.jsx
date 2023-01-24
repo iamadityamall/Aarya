@@ -18,7 +18,7 @@ const Services = () => {
         <h1 className="text-center text-2xl py-4 font-bold tracking-wide capitalize lg:text-4xl">
           our services
         </h1>
-        <p className="grid p-6 text-center text-xs font-semibold lg:text-lg">
+        <p className="grid p-6 text-left text-xs font-semibold lg:text-lg">
           <span className="py-2 border-b-2 border-colorOne">
             Dealing in IT solutions and providing consulting to corporate
             customers.{" "}
