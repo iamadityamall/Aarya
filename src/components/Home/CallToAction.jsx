@@ -43,7 +43,7 @@ const CallToAction = () => {
         </div>
         <div className="p-2 md:text-xs lg:text-lg">
           <h1 className="font-bold">Opening hours</h1>
-          <p className="lg:text-sm">9:00 am - 10:00 pm</p>
+          <p className="lg:text-sm">9:30 am - 07:00 pm</p>
         </div>
       </div>
     </section>
