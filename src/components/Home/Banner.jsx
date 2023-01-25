@@ -11,7 +11,7 @@ const Banner = () => {
     >
       <figure className="grid grid-cols-1 justify-items-center transition-all duration-300 ease-linear rounded-lg overflow-hidden my-10 font-poppins md:grid-cols-2 lg:grid-cols-3">
         <div className="text-center  flex flex-col items-center space-y-7  transition-all duration-300 ease-linear w-full p-10 md:-order-last ">
-          <img
+          {/* <img
             data-aos="fade-right"
             data-aos-duration="2000"
             data-aos-easing="ease-in"
@@ -19,14 +19,14 @@ const Banner = () => {
             src="https://images.squarespace-cdn.com/content/v1/5cf0d08d5fc69d000172462a/1622920319069-Z4F95L48OSY72TJM9RJY/Ollie+Business+LinkedIn+Headshot+Photo.jpg"
             alt="person"
             className="bg-colorTwo w-32 h-32 rounded-full ring ring-offset-2 ring-colorOne transition-all duration-300 ease-linear md:h-36 md:w-36 lg:w-40 lg:h-40"
-          />
+          /> */}
           <div
             data-aos="fade-right"
             data-aos-duration="2000"
             data-aos-easing="ease-in"
             data-aos-once="false"
           >
-            <h1 className="font-bold text-lg">John Doe</h1>
+            <h1 className="font-bold text-lg">Mustafa Iqbal Shaikh</h1>
             <p className="font-semibold text-sm">
               CEO and Founder,{" "}
               <span className="text-colorOne">Arya Infoways</span>

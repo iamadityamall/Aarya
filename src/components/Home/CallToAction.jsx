@@ -25,7 +25,7 @@ const CallToAction = () => {
         </div>
         <div className="p-2 md:text-xs lg:text-lg">
           <h1 className="font-bold">Call</h1>
-          <p className="lg:text-sm">+919000000000</p>
+          <p className="lg:text-sm">+919821277158</p>
         </div>
       </div>
       <div className="flex items-center md:items-start">
@@ -34,7 +34,7 @@ const CallToAction = () => {
         </div>
         <div className="p-2 md:text-xs lg:text-lg">
           <h1 className="font-bold">Send us message</h1>
-          <p className="lg:text-sm">email@email.com</p>
+          <p className="lg:text-sm">info@aryainfoways.com</p>
         </div>
       </div>
       <div className="flex items-center md:items-start">

@@ -19,9 +19,9 @@ const Card = () => {
           <div className="p-2 font-bold font-poppins">Network Monitoring</div>
         </div>
         <p className="p-2 text-sm">
-          We constantly monitor a computer network for slow or failing
-          components and that notifies the network administrator in case of
-          outages or other trouble.
+          We provide the solutions to constantly monitor a computer network for
+          slow or failing components and that notifies the network administrator
+          in case of outages or other trouble
         </p>
       </div>
       {/* <div className="p-2">
