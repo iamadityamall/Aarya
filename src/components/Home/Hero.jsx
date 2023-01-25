@@ -1,6 +1,6 @@
 import React from "react";
 
-import { BsInstagram, BsFacebook, BsLinkedin } from "react-icons/bs";
+import { BsLinkedin } from "react-icons/bs";
 import Link from "react-scroll/modules/components/Link";
 
 const Hero = () => {
@@ -57,12 +57,12 @@ const Hero = () => {
             contact us
           </Link>
           <div className="flex flex-row space-x-3 text-xl p-2 transition-all duration-150 ease-linear">
-            <a href="https://instagram.com">
+            {/* <a href="https://instagram.com">
               <BsInstagram />
             </a>
             <a href="https://facebook.com">
               <BsFacebook />
-            </a>
+            </a> */}
             <a href="https://linkedIn.com">
               <BsLinkedin />
             </a>

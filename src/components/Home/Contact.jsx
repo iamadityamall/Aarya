@@ -26,7 +26,7 @@ const Contact = () => {
       <div className="grid grid-cols-1 gap-y-6 md:gap-y-0 md:grid-cols-3 md:gap-x-5 lg:grid-cols-4">
         <form
           className="text-black w-full space-y-2 p-3 rounded-xl bg-colorOne/25 lg:w-full transition-all duration-150 ease-linear"
-          action="https://formsubmit.co/addasjii@gmail.com"
+          action="https://formsubmit.co/info@aryainfoways.com"
           method="POST"
         >
           <input
